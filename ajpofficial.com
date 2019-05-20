@@ -1,1 +1,1 @@
-{"registrant": "Ashton Petschen", "awatingPayment": true, "amount": "8.39"}
+{"registrant": "Ashton Petschen", "awaitingPayment": true, "amount": "8.39"}
